@@ -32,6 +32,8 @@ Dash_app.py
 
 Once the server is running, navigate to http://127.0.0.1:8050/ in your web browser to access the dashboard.
 
+you can also check out the deployment page to see interactuve use of the the dashboard.
+
 ## The Core Team
 
 Oluwakemi Helen Deniran
