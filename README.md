@@ -1,4 +1,5 @@
 ## Utiva_Project_3
+
 Sentiment_Analysis_On_Amazon_Product_Review
 
 Welcome to Amazon Sentiment Analysis Project
@@ -30,7 +31,7 @@ To launch the Amazon Sentiment Analysis Dashboard, execute the following Python 
 
 Dash_app.py
 
-Once the server is running, navigate to http://127.0.0.1:8050/ in your web browser to access the dashboard.
+Once the server is running, navigate to https://glitch.com/~elfin-zenith-hope in your web browser to access the dashboard.
 
 you can also check out the deployment page to see interactuve use of the the dashboard.
 
